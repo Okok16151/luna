@@ -57,7 +57,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF",
+	"image": "characters/darkgf",
 	"position": [
 		0,
 		0
@@ -70,8 +70,8 @@
 		77
 	],
 	"camera_position": [
-		-180,
-		160
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"scale": 0.8
